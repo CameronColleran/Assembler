@@ -1,3 +1,6 @@
+/**
+ * Command.java: Enum class for various command types
+ */
 public enum Command
 {
     A_COMMAND,
