@@ -1,5 +1,7 @@
 /**
  * Command.java: Enum class for various command types
+ *
+ * @author Cameron Colleran
  */
 public enum Command
 {
